@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>https://elastific.com/archive.html</loc>
-  <lastmod>2023-01-18T03:11:00Z</lastmod>
+  <lastmod>2023-01-18T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://elastific.com/authors/</loc>
@@ -136,6 +136,10 @@
  <url>
   <loc>https://elastific.com/path-handlers/</loc>
   <lastmod>2023-01-18T02:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://elastific.com/posts/</loc>
+  <lastmod>2023-01-18T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://elastific.com/quickref/</loc>
