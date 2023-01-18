@@ -252,7 +252,7 @@ PAGES = (
     ("pages/*.ipynb", "", "post_ipynb.tmpl"),
 )
 # And to avoid a conflict because blogs try to generate /index.html
-INDEX_PATH = "blog"
+INDEX_PATH = "posts"
 
 
 # Below this point, everything is optional
